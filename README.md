@@ -1,4 +1,4 @@
 # Library-Management-System
 This is a Library Management System made with Python using Object Oriented Programming and Tkinter.
 
-It was just my second semester project. 
+It was my second semester project. 
