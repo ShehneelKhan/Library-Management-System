@@ -3,10 +3,10 @@ This is a Library Management System made with Python using Object Oriented Progr
 
 It was my second semester project. 
 
-##Necessary Dependencies:
+## Necessary Dependencies:
 Python
 
-##Packages used:
+## Packages used:
 tkinter
 random
 datetime
